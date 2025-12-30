@@ -13,13 +13,6 @@ Each module focuses on a specific area of offensive security or pentesting.
 
 ---
 
-## 🧠 Author
-
-Toolkit compiled and scripted by: **AceVolition**  
-GitHub: [https://github.com/SneerManiak](https://github.com/AceVolition)
-
----
-
 ## ⚠️ Legal Notice
 
 **For educational and authorized testing only.**  
